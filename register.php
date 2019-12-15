@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://{ophicus}.herokuapp.com/execute.php';
+$WEBHOOK_URL = 'https://{ophicusbot}.herokuapp.com/execute.php';
 $BOT_TOKEN = '{987157543:AAHW8xthl9PIiv147LWGW3ABh5hVYdkp4EY}';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
